@@ -1,3 +1,8 @@
+---
+title: About
+github_corner_link: https://local.link
+---
+
 ## Executing the scripts
 
 After downloading the scripts they can be executed from the command line either by explicitly invoking Perl or by making the scripts executable and letting the OS run Perl for you. To explicitly invoke Perl to execute a script type the following:
